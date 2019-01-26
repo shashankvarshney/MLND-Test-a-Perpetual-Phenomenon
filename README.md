@@ -3,6 +3,23 @@
 
 # Table of Contents
 
+- [Project Description](#project-description)
+  * [What is Stroop effect](#what-is-stroop-effect)
+  * [Claim of Stroop effect](#claim-of-stroop-effect)
+- [Environment and Programming Language](#environment-and-programming-language)
+- [Data Description](#data-description)
+  * [Type of Variables](#type-of-variables)
+- [Exploratory Data analysis](#exploratory-data-analysis)
+  * [Data reading](#data-reading)
+  * [Data Analysis](#data-analysis)
+  * [Data Visualization](#data-visualization)
+- [Hypothesis Testing](#hypothesis-testing)
+  * [Hypothesis Creation](#hypothesis-creation)
+  * [Hypothesis Parameter Calculation](#hypothesis-parameter-calculation)
+  * [Hypothesis testing parameter explanation](#hypothesis-testing-parameter-explanation)
+  * [Hypothesis testing Parameters](#hypothesis-testing-parameters)
+- [Conclusion](#conclusion)
+  * [Reason of this Effect](#reason-of-this-effect)
 
 ## Project Description
 
