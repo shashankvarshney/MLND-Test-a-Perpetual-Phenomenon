@@ -47,6 +47,7 @@ This project will analyze the claim of Stroop effect.
 * Once installed, open conda prompt.
 * Create virtual environment by using `conda env create -f environment.yaml`. **environment.yaml** has been included in the repository.
 * Jupyter notebook has been used for interactively working on the problem statement.
+* Python code and calculation given in the [Project_2.ipynb](./Project_2.ipynb) file.
 
 
 ## Data Description
@@ -229,5 +230,3 @@ This is positive tailed test so we will look for 0.01 in t table with degree of 
 ### Reason of this Effect
 
 Incongruence of word and font color caused confusion in the brain which ultimately caused delay in the processing at brain which ultimately resulted in more time in naming the ink/font color.
-
-Python code and calculation given in the [Project_2.ipynb](./Project_2.ipynb) file.
